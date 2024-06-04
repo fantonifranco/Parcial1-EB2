@@ -1,0 +1,5 @@
+Usuarios y roles
+
+administrador --> rol de app_administrador
+vendedor --> rol de app_vendedor
+repositor --> rol de app_repositor
